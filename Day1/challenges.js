@@ -118,7 +118,7 @@ let u_num4 = readline.question("Enter another number: ");
 
 let modulus = parseInt(u_num3) % parseInt(u_num4);
 
-console.log("When " + u_num3 + "is devided by " + u_num4 + ", the modules is " + modulus);
+console.log("When " + u_num3 + "is devided by " + u_num4 + ", the modulus is " + modulus);
 
 /*
 Exercise 8: Increment and Decrement
