@@ -102,7 +102,7 @@ const readline = require('readline-sync');
 let height = readline.question("Enter height: ");
 let width = readline.question("Enter width: ");
 
-let space = ( parseInt(height) * parseInt(width)) / 2;
+let space = ( parseInt(height) * parseInt(width));
 
 console.log("The size of the are of the rectangle is... " + space);
 
